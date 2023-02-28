@@ -1,0 +1,14 @@
+{
+    "currentAge" :40,
+    "retirementAge":68,
+    "currentAnnualIncome":100000,
+    "spouseIncome":75000,
+    "currentBalance":500000,
+    "currentRetContibution":"10%",
+    "annualIncreaseRateContribution":"25%",
+    "socialSecurityIncome" :true,
+    "additionalIncome":500000,
+    "retirementDuration":20,
+    "postRetirementInflation":true,
+    "postRetirementExpectedInflation" :"20%"
+}
